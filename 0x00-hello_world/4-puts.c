@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - code to print using puts
+ * main - Entry point
  *
- * Return : Always 0 (Success)
+ * Return : Always 0 (Success) print using puts
  */
 
 int main(void)
