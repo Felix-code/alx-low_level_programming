@@ -10,7 +10,7 @@ int main(void)
 
 	for (alpha = 'a'; alpha <= 'z'; alpha++)
 	{
-		if (alpha == 'c')
+		if (alpha == 'e')
 			continue;
 		if (alpha == 'q')
 			continue;
