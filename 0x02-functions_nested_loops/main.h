@@ -1,13 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-void print_alphabet(void);
-{
-	char alpha = 'a';
+void print_alphabet(void)
 
-	for (alpha = 'a'; alpha < 'z'; alpha++)
-	{
-		_putchar(alpha);
-	}
-}
 #endif
