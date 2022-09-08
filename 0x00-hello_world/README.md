@@ -3,4 +3,5 @@
 -  script that generates the assembly code of a C code and save it in an output file.
 - a script that compiles the code and return an output file named cisfun.
 - A program that prints a string using puts.
-- A program that prints a string using printf
+- A program that prints a string using printf.
+- A c program that prints the size of various types on the computer it is compiled and run on.
