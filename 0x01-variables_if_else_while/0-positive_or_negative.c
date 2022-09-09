@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 /**
- *
- * main - A code that assigns random numbers to n
+ * main - assign random numbers to n
  *
  * Return: Always 0 (Success)
  */
@@ -15,7 +14,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	
+
 	if (n > 0)
 	{
 		printf("%d is positive\n", n);
