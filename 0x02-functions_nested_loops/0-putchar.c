@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include "main.h"
+
 /**
  * main - a function that prints _putchar
  *
- * Author: Mukah Felix .C
+ * Return: Always 0 (Success)
  */
 
 int main(void)
