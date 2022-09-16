@@ -1,5 +1,10 @@
 #include <stdio.h>
 #include "main.h"
+/**
+ * main - a function that prints _putchar
+ *
+ * Author: Mukah Felix .C
+ */
 
 int main(void)
 {
